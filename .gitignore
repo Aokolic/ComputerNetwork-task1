@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Build artifacts / images
+*.png
+
+*.txt
